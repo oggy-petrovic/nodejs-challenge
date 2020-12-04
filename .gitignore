@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# IDE files
+.history/
+.vscode/
+*.code-workspace
+
+# Linter
+.eslintcache/

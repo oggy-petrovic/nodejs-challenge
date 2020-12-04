@@ -1,0 +1,23 @@
+{
+  "name": "wefox",
+  "version": "0.0.1",
+  "description": "Wefox Node.js Challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oggy-petrovic/wefox.git"
+  },
+  "author": "Oggy Petrovic <contact@oggypetrovic.dev> (https://oggypetrovic.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oggy-petrovic/wefox/issues"
+  },
+  "homepage": "https://github.com/oggy-petrovic/wefox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
